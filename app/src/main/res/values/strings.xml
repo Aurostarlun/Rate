@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exchange_rate</string>
+    <string name="hint_txt">Input RMB</string>
+    <string name="dollar_label">Dollar</string>
+    <string name="euro_label">Euro</string>
+    <string name="won_label">Won</string>
+    <string name="app_name2">CountTable</string>
+    <string name="Lable_add3">+3 points</string>
+    <string name="Lable_add2">+2 points</string>
+    <string name="Lable_add1">+1 point</string>
+    <string name="reset">Reset</string>
+    <string name="btn_save_label">Save</string>
+    <string name="btn_config">Config</string>
+    <string name="menu_set_label">Setting</string>
+    <string name="label_open_list">OpenList</string>
+</resources>
